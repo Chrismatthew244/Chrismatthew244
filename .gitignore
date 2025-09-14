@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+documents.db
+storage/
+test.db
+storage_test/
+.env
